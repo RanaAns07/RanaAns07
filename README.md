@@ -2,7 +2,7 @@
 
 I am a **Python Developer** with strong expertise in building scalable, reliable, and production-ready systems. My primary focus is on **backend development using Python and Django**, but I also have experience in **mobile application development (Flutter)**, **API integrations**, and **real-time systems**.  
 
-Currently, I work as a **Backend Engineer at Aglivo**, where I design and implement backend solutions, integrations, and APIs for business-critical applications.  
+Currently, I work as a **Backend Engineer at codeXpace**, where I design and implement backend solutions, integrations, and APIs for business-critical applications.  
 
 ---
 
